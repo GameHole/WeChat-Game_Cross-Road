@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "513bae9c-8890-489c-923d-5b684b9c115f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ML_car_ambulance_01": {
+      "ver": "1.0.3",
+      "uuid": "2be06759-d4cd-4702-8021-7bc374868281",
+      "rawTextureUuid": "513bae9c-8890-489c-923d-5b684b9c115f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 0,
+      "trimY": 12,
+      "width": 151,
+      "height": 131,
+      "rawWidth": 151,
+      "rawHeight": 143,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

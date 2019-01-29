@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "65e8eb73-2859-4a0f-ad0f-7218694e700e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ML_car_taxi_01": {
+      "ver": "1.0.3",
+      "uuid": "ec51b30c-268c-465d-b444-9f35dc066a31",
+      "rawTextureUuid": "65e8eb73-2859-4a0f-ad0f-7218694e700e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 139,
+      "height": 104,
+      "rawWidth": 139,
+      "rawHeight": 106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

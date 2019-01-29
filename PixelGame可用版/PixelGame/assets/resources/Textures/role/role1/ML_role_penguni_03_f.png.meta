@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8417e7cf-2660-4314-bde1-84f16237e1e6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ML_role_penguni_03_f": {
+      "ver": "1.0.3",
+      "uuid": "9284a048-bd50-4b2f-8638-21ec389d7081",
+      "rawTextureUuid": "8417e7cf-2660-4314-bde1-84f16237e1e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -9.5,
+      "trimX": 20,
+      "trimY": 27,
+      "width": 67,
+      "height": 77,
+      "rawWidth": 112,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

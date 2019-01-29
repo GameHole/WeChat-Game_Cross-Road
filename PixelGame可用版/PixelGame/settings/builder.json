@@ -1,0 +1,52 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [
+    "9edfd1b1-b8cd-4c3d-838e-95736dc200f8",
+    "bdb410b9-0875-4e24-8e06-dc8cf3be9adf",
+    "3f3f9dd3-a8e2-4a4b-bd58-49758778c053",
+    "17392080-df07-4742-89d3-6d7cd2663c69"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.PixelGame",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "startScene": "874e0e53-c272-4694-8070-24d33de70907",
+  "title": "PixelGame",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxffd91d662cb899e6",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "6405a215-1a6f-4e",
+  "zipCompressJs": true
+}
